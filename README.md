@@ -1,1 +1,3 @@
-# linear-regression-least-squares-approximation
+# Least Squares Approximation in Linear Regression
+
+May 2022. This project was part of my Linear Algebra course. Least squares approximation is a useful method for finding an estimated solution to a system of equations that would otherwise be unsolvable for the unknown parameters. The fact that these systems cannot be solved is typically a result of there being significantly more equations than unknowns in the system. One of the most popular applications of least squares approximation is in linear regression analysis, a method from statistics that seeks to find a way to estimate and quantify the relationship between 2 (or more) variables. This project seeks to provide a brief outline of the Mathematics of least squares approximation, as well as a tutorial of its application in linear regression analysis.
